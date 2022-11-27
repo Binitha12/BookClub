@@ -1,0 +1,16 @@
+.container--example{
+    padding: 0;
+    width:2000px;
+    height:800px;
+    background-image:url("../../images/books.jpg");
+  color:black;
+  text-align:center;
+ 
+}
+
+.text{
+    position: relative;
+    top:200px;
+    right:180px;
+    font-size: 100px;
+}

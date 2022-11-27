@@ -1,0 +1,92 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "Rich Dad Poor Dad",
+            "image": "https://literatureglobe.com/wp-content/uploads/2020/10/Rich-Dad-Poor-Dad-Front-min-e1601808025506.jpg",
+            "category": "business",
+            "oldPrice": 700,
+            "newPrice": 560,
+            "discount": 20,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "2",
+            "name": "The 5 AM Club",
+            "image": "https://5.imimg.com/data5/XE/DD/AO/SELLER-19351533/the-5-am-club-own-your-morning-elevate-your-life-robin-sharma-250x250.jpg",
+            "category": "business",
+            "oldPrice": 600,
+            "newPrice": 402,
+            "discount": 33,
+            "rating": 4.5,
+            "isInStock": true
+        },
+        {
+            "id": "3",
+            "name": "Why I am An Atheist",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41zsMB3h+rL._SY344_BO1,204,203,200_.jpg",
+            "category": "motivation",
+            "oldPrice": 350,
+            "newPrice": 297.5,
+            "discount": 15,
+            "rating": 1.8,
+            "isInStock": false
+        },
+        {
+            "id": "4",
+            "name": "Subtle Art of Not...",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707._UY400_SS400_.jpg",
+            "category": "motivation",
+            "oldPrice": 800,
+            "newPrice": 400,
+            "discount": 50,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "5",
+            "name": "One Indian Girl",
+            "image": "https://n3.sdlcdn.com/imgs/c/v/i/9788129142146-a2298.jpg",
+            "category": "Novel",
+            "oldPrice": 400,
+            "newPrice": 200,
+            "discount": 50,
+            "rating": 4.2,
+            "isInStock": false
+        },
+        {
+            "id": "6",
+            "name": "Five Point Someone",
+            "image": "https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images_share/five-point-someone-what-not-to-do-at-iit_FrontImage_624.jpg",
+            "category": "Novel",
+            "oldPrice": 500,
+            "newPrice": 250,
+            "discount": 50,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "7",
+            "name": "It ends with us",
+            "image":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504562749i/36182553._UY630_SR1200,630_.jpg",
+            "category": "Novel",
+            "oldPrice": 400,
+            "newPrice": 320,
+            "discount": 20,
+            "rating": 4.3,
+            "isInStock": true
+        },
+        {
+            "id": "8",
+            "name": "Who will cry when..",
+            "image": "https://yooktals.in/wp-content/uploads/2020/11/1605941721457.jpg",
+            "category": "Personality Development",
+            "oldPrice": 300,
+            "newPrice": 270,
+            "discount": 10,
+            "rating": 4.5,
+            "isInStock": true
+        }
+    ]
+}
